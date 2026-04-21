@@ -1,0 +1,31 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "workbench.colorTheme": "Tokyo Night",
+  "workbench.iconTheme": "material-icon-theme",
+
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 15,
+  "editor.lineHeight": 22,
+
+  "editor.cursorStyle": "line",
+  "editor.cursorBlinking": "smooth",
+
+  "editor.bracketPairColorization.enabled": true,
+  "editor.smoothScrolling": true,
+  "editor.cursorSmoothCaretAnimation": "on",
+
+  "editor.minimap.enabled": false,
+  "breadcrumbs.enabled": false,
+
+  "terminal.integrated.fontFamily": "JetBrains Mono",
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.cursorBlinking": true,
+
+  "workbench.colorCustomizations": {
+    "terminal.background": "#0f172a",
+    "terminal.foreground": "#e5e7eb",
+    "terminalCursor.foreground": "#22c55e"
+}
+}

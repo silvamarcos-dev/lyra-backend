@@ -1,0 +1,152 @@
+
+========================================
+DATA: 2026-04-10 11:36:56
+MODO: direct_chat
+USUÁRIO: oiii
+RESPOSTA_ATUAL: Oi kkkkk, tô aqui sim. Me fala, o que você quer fazer agora?
+STATUS: pendente
+========================================
+
+========================================
+DATA: 2026-04-10 21:57:34
+MODO: direct_chat
+USUÁRIO: oiiii
+RESPOSTA_ATUAL: Entendi o que você quis dizer. Me explica melhor que eu sigo com você nessa.
+STATUS: pendente
+========================================
+
+========================================
+DATA: 2026-04-10 21:57:42
+MODO: direct_chat
+USUÁRIO: oiii
+RESPOSTA_ATUAL: Oi kkkkk, tô aqui sim. Me fala, o que você quer fazer agora?
+STATUS: pendente
+========================================
+
+========================================
+DATA: 2026-04-10 22:03:16
+MODO: direct_chat
+USUÁRIO: oiii
+RESPOSTA_ATUAL: Oi kkkkk, tô aqui sim. Me fala, o que você quer fazer agora?
+STATUS: pendente
+========================================
+
+========================================
+DATA: 2026-04-10 22:08:47
+MODO: direct_chat
+USUÁRIO: oii
+RESPOSTA_ATUAL: Oi kkkkk, tô aqui sim. Me fala, o que você quer fazer agora?
+STATUS: pendente
+========================================
+
+========================================
+DATA: 2026-04-14 12:27:21
+MODO: direct_chat
+USUÁRIO: oii
+RESPOSTA_ATUAL: Oi kkkkk, tô aqui sim. Me fala, o que você quer fazer agora?
+STATUS: pendente
+========================================
+
+========================================
+DATA: 2026-04-14 12:27:45
+MODO: direct_chat
+USUÁRIO: Aulas de robotica
+RESPOSTA_ATUAL: Entendi o que você quis dizer. Me explica melhor que eu sigo com você nessa.
+STATUS: pendente
+========================================
+
+========================================
+DATA: 2026-04-14 12:33:41
+MODO: direct_chat
+USUÁRIO: lyra, eu devo aceitar o pedido de namoro do marcos
+RESPOSTA_ATUAL: Entendi o que você quis dizer. Me explica melhor que eu sigo com você nessa.
+STATUS: pendente
+========================================
+
+========================================
+DATA: 2026-04-14 20:36:01
+MODO: direct_chat
+USUÁRIO: Oi Lira
+RESPOSTA_ATUAL: Entendi o que você quis dizer. Me explica melhor que eu sigo com você nessa.
+STATUS: pendente
+========================================
+
+========================================
+DATA: 2026-04-14 20:42:59
+MODO: direct_chat
+USUÁRIO: Lira Agendar reunião com cliente às 00
+RESPOSTA_ATUAL: Entendi o que você quis dizer. Me explica melhor que eu sigo com você nessa.
+STATUS: pendente
+========================================
+
+========================================
+DATA: 2026-04-14 20:48:21
+MODO: direct_chat
+USUÁRIO: reunião com corretor amanhã às 20
+RESPOSTA_ATUAL: Entendi o que você quis dizer. Me explica melhor que eu sigo com você nessa.
+STATUS: pendente
+========================================
+
+========================================
+DATA: 2026-04-14 20:49:26
+MODO: direct_chat
+USUÁRIO: Lira reunião hoje às 22:00
+RESPOSTA_ATUAL: Entendi o que você quis dizer. Me explica melhor que eu sigo com você nessa.
+STATUS: pendente
+========================================
+
+========================================
+DATA: 2026-04-14 20:51:39
+MODO: direct_chat
+USUÁRIO: oiii
+RESPOSTA_ATUAL: Oi kkkkk, tô aqui sim. Me fala, o que você quer fazer agora?
+STATUS: pendente
+========================================
+
+========================================
+DATA: 2026-04-14 20:58:20
+MODO: direct_chat
+USUÁRIO: reunião
+RESPOSTA_ATUAL: Entendi o que você quis dizer. Me explica melhor que eu sigo com você nessa.
+STATUS: pendente
+========================================
+
+========================================
+DATA: 2026-04-14 21:01:31
+MODO: direct_chat
+USUÁRIO: Lira reunião hoje às 23:40
+RESPOSTA_ATUAL: Entendi o que você quis dizer. Me explica melhor que eu sigo com você nessa.
+STATUS: pendente
+========================================
+
+========================================
+DATA: 2026-04-14 21:01:58
+MODO: direct_chat
+USUÁRIO: oiii
+RESPOSTA_ATUAL: Oi kkkkk, tô aqui sim. Me fala, o que você quer fazer agora?
+STATUS: pendente
+========================================
+
+========================================
+DATA: 2026-04-14 21:03:22
+MODO: direct_chat
+USUÁRIO: reunião amanhã às 20:00
+RESPOSTA_ATUAL: Entendi o que você quis dizer. Me explica melhor que eu sigo com você nessa.
+STATUS: pendente
+========================================
+
+========================================
+DATA: 2026-04-14 21:03:40
+MODO: direct_chat
+USUÁRIO: Lira Agendar reunião para amanhã às 20
+RESPOSTA_ATUAL: Entendi o que você quis dizer. Me explica melhor que eu sigo com você nessa.
+STATUS: pendente
+========================================
+
+========================================
+DATA: 2026-04-14 21:20:53
+MODO: direct_chat
+USUÁRIO: tenho reunião às 8:00 da manhã
+RESPOSTA_ATUAL: Entendi o que você quis dizer. Me explica melhor que eu sigo com você nessa.
+STATUS: pendente
+========================================

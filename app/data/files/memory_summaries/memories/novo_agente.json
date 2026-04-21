@@ -1,0 +1,18 @@
+[
+    {
+        "role": "user",
+        "content": "Pedido original do usuário:\nQuero melhorar o atendimento da imobiliária, deixar as respostas mais humanas, revisar a parte contratual e definir uma estratégia de crescimento.\n\nGere a melhor resposta inicial possível dentro da sua especialidade."
+    },
+    {
+        "role": "assistant",
+        "content": "[Modo local] Novo Agente: considerando seu histórico resumido, suas tags de memória, seus objetivos persistentes e sua mensagem 'Pedido original do usuário:\nQuero melhorar o atendimento da imobiliária, deixar as respostas mais humanas, revisar a parte contratual e definir uma estratégia de crescimento.\n\nGere a melhor resposta inicial possível dentro da sua especialidade.', vou continuar te orientando dentro do objetivo 'Criar uma IA para atendimento imobiliário'."
+    },
+    {
+        "role": "user",
+        "content": "Pedido original do usuário:\nQuero melhorar o atendimento da imobiliária, revisar a parte contratual e definir uma estratégia de crescimento.\n\nGere a melhor resposta inicial possível dentro da sua especialidade."
+    },
+    {
+        "role": "assistant",
+        "content": "[Modo local] Novo Agente: considerando seu histórico resumido, suas tags de memória, seus objetivos persistentes e sua mensagem 'Pedido original do usuário:\nQuero melhorar o atendimento da imobiliária, revisar a parte contratual e definir uma estratégia de crescimento.\n\nGere a melhor resposta inicial possível dentro da sua especialidade.', vou continuar te orientando dentro do objetivo 'Criar uma IA para atendimento imobiliário'."
+    }
+]

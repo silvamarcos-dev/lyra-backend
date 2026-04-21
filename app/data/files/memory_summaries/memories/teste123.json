@@ -1,0 +1,50 @@
+[
+    {
+        "role": "user",
+        "content": "teste"
+    },
+    {
+        "role": "user",
+        "content": "teste"
+    },
+    {
+        "role": "assistant",
+        "content": "[Modo local] Teste123: considerando seu histórico resumido, suas tags de memória, seus objetivos persistentes e sua mensagem 'teste', vou continuar te orientando dentro do objetivo 'Ajudar na secretaria escolar'."
+    },
+    {
+        "role": "user",
+        "content": "teste"
+    },
+    {
+        "role": "user",
+        "content": "teste"
+    },
+    {
+        "role": "assistant",
+        "content": "[Modo local] Teste123: considerando seu histórico resumido, suas tags de memória, seus objetivos persistentes e sua mensagem 'teste', vou continuar te orientando dentro do objetivo 'Ajudar na secretaria escolar'."
+    },
+    {
+        "role": "assistant",
+        "content": "[Modo local] Teste123: considerando seu histórico resumido, suas tags de memória, seus objetivos persistentes e sua mensagem 'teste', vou continuar te orientando dentro do objetivo 'Ajudar na secretaria escolar'."
+    },
+    {
+        "role": "assistant",
+        "content": "[Modo local] Teste123: considerando seu histórico resumido, suas tags de memória, seus objetivos persistentes e sua mensagem 'teste', vou continuar te orientando dentro do objetivo 'Ajudar na secretaria escolar'."
+    },
+    {
+        "role": "user",
+        "content": "Pedido original do usuário:\npreciso de atendimento imobiliario\n\n\nResposta anterior produzida por outro agente:\n[Modo local] Aurora Imóveis: considerando seu histórico resumido, suas tags de memória, seus objetivos persistentes e sua mensagem 'Pedido original do usuário:\npreciso de atendimento imobiliario\n\n\nGere a melhor resposta inicial possível dentro da sua especialidade.', vou continuar te orientando dentro do objetivo 'Criar uma IA para atendimento imobiliario'.\n\nAgora atue como Teste123 e melhore essa resposta dentro da sua especialidade. Você pode complementar, corrigir, refinar, reorganizar ou tornar mais útil."
+    },
+    {
+        "role": "assistant",
+        "content": "[Modo local] Teste123: considerando seu histórico resumido, suas tags de memória, seus objetivos persistentes e sua mensagem 'Pedido original do usuário:\npreciso de atendimento imobiliario\n\n\nResposta anterior produzida por outro agente:\n[Modo local] Aurora Imóveis: considerando seu histórico resumido, suas tags de memória, seus objetivos persistentes e sua mensagem 'Pedido original do usuário:\npreciso de atendimento imobiliario\n\n\nGere a melhor resposta inicial possível dentro da sua especialidade.', vou continuar te orientando dentro do objetivo 'Criar uma IA para atendimento imobiliario'.\n\nAgora atue como Teste123 e melhore essa resposta dentro da sua especialidade. Você pode complementar, corrigir, refinar, reorganizar ou tornar mais útil.', vou continuar te orientando dentro do objetivo 'Ajudar na secretaria escolar'."
+    },
+    {
+        "role": "user",
+        "content": "Pedido original do usuário:\npreciso de atendimento imobiliario\n\n\nResposta anterior produzida por outro agente:\n[Modo local] Aurora Imóveis: considerando seu histórico resumido, suas tags de memória, seus objetivos persistentes e sua mensagem 'Pedido original do usuário:\npreciso de atendimento imobiliario\n\n\nGere a melhor resposta inicial possível dentro da sua especialidade.', vou continuar te orientando dentro do objetivo 'Criar uma IA para atendimento imobiliario'.\n\nAgora atue como Teste123 e melhore essa resposta dentro da sua especialidade. Você pode complementar, corrigir, refinar, reorganizar ou tornar mais útil."
+    },
+    {
+        "role": "assistant",
+        "content": "[Modo local] Teste123: considerando seu histórico resumido, suas tags de memória, seus objetivos persistentes e sua mensagem 'Pedido original do usuário:\npreciso de atendimento imobiliario\n\n\nResposta anterior produzida por outro agente:\n[Modo local] Aurora Imóveis: considerando seu histórico resumido, suas tags de memória, seus objetivos persistentes e sua mensagem 'Pedido original do usuário:\npreciso de atendimento imobiliario\n\n\nGere a melhor resposta inicial possível dentro da sua especialidade.', vou continuar te orientando dentro do objetivo 'Criar uma IA para atendimento imobiliario'.\n\nAgora atue como Teste123 e melhore essa resposta dentro da sua especialidade. Você pode complementar, corrigir, refinar, reorganizar ou tornar mais útil.', vou continuar te orientando dentro do objetivo 'Ajudar na secretaria escolar'."
+    }
+]

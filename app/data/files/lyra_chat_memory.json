@@ -1,0 +1,74 @@
+[
+    {
+        "role": "user",
+        "content": "oiiii"
+    },
+    {
+        "role": "assistant",
+        "content": "Entendi o que você quis dizer. Me explica melhor que eu sigo com você nessa."
+    },
+    {
+        "role": "user",
+        "content": "ache o tema da redação do enem para mim"
+    },
+    {
+        "role": "assistant",
+        "content": "Entendi o que você quis dizer. Me explica melhor que eu sigo com você nessa."
+    },
+    {
+        "role": "user",
+        "content": "oiii"
+    },
+    {
+        "role": "assistant",
+        "content": "Oi kkkkk, tô aqui sim. Me fala, o que você quer fazer agora?"
+    },
+    {
+        "role": "user",
+        "content": "quem é você?"
+    },
+    {
+        "role": "assistant",
+        "content": "Eu sou a Lyra. Posso conversar com você normalmente e também te ajudar com ideias, estratégia, código e organização do que você estiver construindo."
+    },
+    {
+        "role": "user",
+        "content": "me ajude a criar um código para a programação de um site em front-end"
+    },
+    {
+        "role": "assistant",
+        "content": "[Modo local] teste456: considerando seu histórico resumido, suas tags de memória, seus objetivos persistentes e sua mensagem 'me ajude a criar um código para a programação de um site em front-end', vou continuar te orientando dentro do objetivo 'montar arquiteturas robustas para sistemas digitais'."
+    },
+    {
+        "role": "user",
+        "content": "preciso de um atendimento imobiliário"
+    },
+    {
+        "role": "assistant",
+        "content": "Entendi o que você quis dizer. Me explica melhor que eu sigo com você nessa."
+    },
+    {
+        "role": "user",
+        "content": "qual o tema da redação do enem?"
+    },
+    {
+        "role": "assistant",
+        "content": "Entendi o que você quis dizer. Me explica melhor que eu sigo com você nessa."
+    },
+    {
+        "role": "user",
+        "content": "qual o tema da redação do enem?"
+    },
+    {
+        "role": "assistant",
+        "content": "Entendi o que você quis dizer. Me explica melhor que eu sigo com você nessa."
+    },
+    {
+        "role": "user",
+        "content": "ache o tema da redação do enem para mim"
+    },
+    {
+        "role": "assistant",
+        "content": "Entendi o que você quis dizer. Me explica melhor que eu sigo com você nessa."
+    }
+]
