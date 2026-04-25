@@ -62,7 +62,7 @@ def calendar_callback(code: str):
     google_token_store["client_id"] = GOOGLE_CLIENT_ID
     google_token_store["client_secret"] = GOOGLE_CLIENT_SECRET
 
-    return RedirectResponse("http://localhost:5173/calendar?connected=true")
+    return RedirectResponse("https://lyra-aurion-system.vercel.app/calendar?connected=true")
 
 
 @router.get("/events")
