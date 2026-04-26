@@ -16,7 +16,7 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:5173",
-        "https://accommodations-quantities-pets-recommendation.trycloudflare.com",
+        "https://penalty-champagne-lock-arlington.trycloudflare.com",
         "https://lyra-aurion-system.vercel.app",
     ],
     allow_credentials=True,
