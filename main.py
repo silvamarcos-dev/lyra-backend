@@ -16,8 +16,8 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:5173",
-        "https://blond-ryan-vehicles-loud.trycloudflare.com",
         "https://lyra-aurion-system.vercel.app",
+        "https://calculated-resolved-bishop-scientist.trycloudflare.com",
     ],
     allow_credentials=True,
     allow_methods=["*"],
