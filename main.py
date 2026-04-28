@@ -17,7 +17,7 @@ app.add_middleware(
     allow_origins=[
         "http://localhost:5173",
         "https://lyra-aurion-system.vercel.app",
-        "https://calculated-resolved-bishop-scientist.trycloudflare.com",
+        "https://agricultural-promotional-adopt-judy.trycloudflare.com",
     ],
     allow_credentials=True,
     allow_methods=["*"],
