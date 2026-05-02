@@ -17,7 +17,7 @@ app.add_middleware(
     allow_origins=[
         "http://localhost:5173",
         "https://lyra-aurion-system.vercel.app",
-        "https://christ-hundreds-achieved-pose.trycloudflare.com",
+        "https://response-induction-hindu-procedures.trycloudflare.com",
     ],
     allow_credentials=True,
     allow_methods=["*"],
